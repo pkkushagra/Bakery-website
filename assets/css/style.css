@@ -87,7 +87,7 @@
     position: relative;
     display: block;
     justify-content: center;
-    top: 100px;
+    top: 80px;
     text-align: center;
     animation: cntnt 3s ease-in-out;
     animation-iteration-count: 1;
@@ -96,7 +96,7 @@
 }
 @keyframes cntnt {
     100%{
-        transform:translateY(200px);
+        transform:translateY(100px);
     }
     
 }
@@ -123,10 +123,12 @@
     background: transparent;
     text-decoration: none;
 }
-.ele p{
+.ele p,h1{
     margin-bottom: 40px;
     color: white;
 }
 .ele a:hover{
-    color:#e04090
+      
+    background: white;
+    color: #ff0000e8;
 }
