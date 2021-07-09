@@ -134,7 +134,7 @@
     color: #ff0000e8;
 }
 .mid-box{
-    border: 2px solid rgb(201, 135, 92);
+    border: 2px solid #fdb822;
     margin: 20px;
     border-top-left-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -180,7 +180,7 @@
 .strp a:hover{
     background: #ff0000e8;
     color: white;
-    transition: all .5s ease;
+    transition: all 1s ease;
     
 }
 .founder{
